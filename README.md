@@ -1,4 +1,4 @@
-# Song Similarity Analysis using Machine Learning
+# Song Similarity Analysis
 
 **Our junior year project** on music similarity and clustering using Music Information Retrieval (MIR) and classic ML. The pipeline extracts audio features, reduces dimensionality with t-SNE and clusters songs with Fuzzy C Means to explore how different genres relate in feature space.
 
